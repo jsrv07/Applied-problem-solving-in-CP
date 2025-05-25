@@ -1,25 +1,17 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main()
 {
-    int n;
+    long long n;
     cin >> n;
-    int arr[n];
-    for (int i = 0; i < n-1; i++)
-    {
-
-        cin >> arr[i];
+    long long total = n * (n + 1) / 2;
+    long long sum = 0;
+    for (int i = 0; i < n - 1; i++) {
+        long long num;
+        cin >> num;
+        sum += num;
     }
-    sort(arr, arr + n);
-    for (int i = 0; i < n; i++)
-    {
-        if (arr[i] != i + 1)
-        {
-            cout << i + 1;
-            break;
-        }
-    }
-    
+    cout << total - sum << endl;
     return 0;
 }
