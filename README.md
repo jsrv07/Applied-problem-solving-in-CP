@@ -1,6 +1,6 @@
 ## MY PROGRESS REPORT ##
 ## MIDTERM CHECKPOINT ##
-I have been practicing CP questions from the questions provided by the mentor weekly. Along with that, i have been giving codeforces contests and have a rating of 1327 currently(as on 23rd June, 2025). 
+I have been practicing CP questions from the questions provided by the mentor weekly. Along with that, i have been giving codeforces contests and have a rating of 1372 currently(as on 23rd June, 2025). 
 CODEFORCES ID - @shreshtha_21
 
 I will dive on to some theory and complex algo structures in the upcoming weeks covering the weekly questions given too.
