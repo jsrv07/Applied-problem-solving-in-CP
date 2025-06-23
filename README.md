@@ -1,3 +1,10 @@
+## MY PROGRESS REPORT ##
+## MIDTERM CHECKPOINT ##
+I have been practicing CP questions from the questions provided by the mentor weekly. Along with that, i have been giving codeforces contests and have a rating of 1327 currently(as on 23rd June, 2025). 
+
+I will dive on to some theory and complex algo structures in the upcoming weeks covering the weekly questions given too.
+
+
 # Applied Problem Solving in Competitive Programming
 
 Welcome to the Summer of Code 2025: 8-Week Track on mastering Competitive Programming (CP) through applied problem solving and structured practice.
