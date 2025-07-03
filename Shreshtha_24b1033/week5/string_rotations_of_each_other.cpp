@@ -21,10 +21,9 @@ public:
                 else i++;
             }
         }
-        return false;
-
-        
+        return false; 
     }
+    
 private:
     vector<int> computeLPS(string &pat){
         int n=pat.size();
