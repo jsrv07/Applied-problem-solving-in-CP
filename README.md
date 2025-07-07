@@ -125,4 +125,34 @@ Welcome to the Summer of Code 2025: 8-Week Track on mastering Competitive Progra
 | 9  | Subset Sum I                           | [GeeksforGeeks - Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
 | 10 | Subset Sum II                          | [GeeksforGeeks - Subset Sum II](https://practice.geeksforgeeks.org/problems/subset-sum-ii/0) |
 
+# Week 7: (30 June - 7 July) - Dynamic Programming Basics
+
+| #  | Problem Title                                      | Link                                                                                     |
+|----|----------------------------------------------------|------------------------------------------------------------------------------------------|
+| 1  | Fibonacci Numbers (Memoization + Tabulation)       | [LeetCode - Problem 509](https://leetcode.com/problems/fibonacci-number/)               |
+| 2  | Climbing Stairs                                    | [LeetCode - Problem 70](https://leetcode.com/problems/climbing-stairs/)                 |
+| 3  | Min Cost Climbing Stairs                           | [LeetCode - Problem 746](https://leetcode.com/problems/min-cost-climbing-stairs/)       |
+| 4  | House Robber                                       | [LeetCode - Problem 198](https://leetcode.com/problems/house-robber/)                   |
+| 5  | House Robber II                                    | [LeetCode - Problem 213](https://leetcode.com/problems/house-robber-ii/)                |
+| 6  | Ninja’s Training (Variation of max path)           | [Coding Ninjas - Ninja’s Training](https://www.codingninjas.com/studio/problems/ninja-s-training_3621003) |
+| 7  | Longest Common Subsequence                         | [GFG - LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) |
+| 8  | Longest Increasing Subsequence                     | [LeetCode - Problem 300](https://leetcode.com/problems/longest-increasing-subsequence/) |
+| 9  | 0/1 Knapsack Problem                               | [GFG - 0/1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) |
+| 10 | Partition Equal Subset Sum                         | [LeetCode - Problem 416](https://leetcode.com/problems/partition-equal-subset-sum/)     |
+
+
+# Week 8: (7 July - 14 July) - Advanced DP & Digit DP
+
+| #  | Problem Title                                      | Link                                                                                     |
+|----|----------------------------------------------------|------------------------------------------------------------------------------------------|
+| 1  | Subset Sum Equals Target                           | [LeetCode - Problem 494](https://leetcode.com/problems/target-sum/)                     |
+| 2  | Count Subsets with Given Sum                       | [GFG - Count Subsets](https://practice.geeksforgeeks.org/problems/count-of-subsets-with-sum-equal-to-x/1) |
+| 3  | Coin Change (Min Coins)                            | [LeetCode - Problem 322](https://leetcode.com/problems/coin-change/)                    |
+| 4  | Coin Change II (Count Ways)                        | [LeetCode - Problem 518](https://leetcode.com/problems/coin-change-ii/)                 |
+| 5  | Palindromic Substrings                             | [LeetCode - Problem 647](https://leetcode.com/problems/palindromic-substrings/)         |
+| 6  | Edit Distance                                       | [LeetCode - Problem 72](https://leetcode.com/problems/edit-distance/)                   |
+| 7  | Wildcard Matching                                   | [LeetCode - Problem 44](https://leetcode.com/problems/wildcard-matching/)               |
+| 8  | Digit DP Intro - Count Numbers with Unique Digits  | [LeetCode - Problem 357](https://leetcode.com/problems/count-numbers-with-unique-digits/) |
+| 9  | Count of Integers with Sum of Digits = K           | [GFG - Digit Sum DP](https://www.geeksforgeeks.org/count-numbers-from-1-to-n-whose-sum-of-digits-is-exactly-equal-to-k/) |
+| 10 | Maximum Sum Increasing Subsequence                 | [GFG - MSIS](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) |
 
