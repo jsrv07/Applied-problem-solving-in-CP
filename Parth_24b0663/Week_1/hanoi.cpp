@@ -1,10 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 void fn(int n, char initial, char middle, char final){
-    if(n==1){
-        cout<<initial<<" "<<final<<endl;
-        return;
-    }
+    if(n==0) return;
     fn(n-1, initial, final , middle);
     cout<<initial<<" "<<final<<endl;
     fn(n-1,middle,initial,final);
