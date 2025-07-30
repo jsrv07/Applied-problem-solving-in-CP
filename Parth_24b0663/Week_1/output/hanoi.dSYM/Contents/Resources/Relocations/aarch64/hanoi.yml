@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/parthchauhan/Desktop/DSA/Parth_24b0663/Week_1/output/hanoi'
+relocations:     []
+...
